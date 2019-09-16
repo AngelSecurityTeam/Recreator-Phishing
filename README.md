@@ -6,14 +6,22 @@
 
 * apt-get install python3
 
-* apt-get install git
+* apt-get install git 
 
-* git clone 
+* git clone https://github.com/AngelSecurityTeam/Recreator-Phishing
 
-* cd 
+* cd Recreator-Phishing
 
 * bash install.sh
 
 * python3 recreator-phishing.py
 
-<img src="">
+<h3> PHISHING-TOOL PHOTOS </h3>
+
+<img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_1.png">
+
+<img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_2.png">
+
+<h2> main page not defined </h2>
+
+<img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_3.png">
