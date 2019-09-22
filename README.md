@@ -1,6 +1,6 @@
 # Recreator-Phishing
 
- Educational Phishing Tool with serveo.net
+ Educational Phishing Tool 
  
 <h3> Mode Of Execution: </h3>
 
