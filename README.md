@@ -25,3 +25,8 @@
 <h2> main page not defined </h2>
 
 <img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_3.png">
+
+
+<h3> Paypal Donations: </h3>
+
+* https://www.paypal.me/AngelSecurityTeam
