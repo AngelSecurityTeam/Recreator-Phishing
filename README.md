@@ -14,6 +14,8 @@
 
 * bash install.sh
 
+* python3 ServerInstall.py
+
 * python3 recreator-phishing.py
 
 <h3> PHISHING-TOOL PHOTOS </h3>
