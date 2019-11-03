@@ -18,6 +18,22 @@ def Ngrok():
         download(url)
         os.system('unzip ' + filename)
         os.system('rm -Rf ' + filename)
-        os.system('clear')     
+        os.system('clear')
+#LOCALXPOSE
+def Localxpose(): 
+    if True:
+        if 'Android' in str(check_output(('uname', '-a'))) or 'arm' in str(check_output(('uname', '-a'))):
+            filename = 'loclx-linux-arm.zip'
+        else:
+            ostype = systemos().lower()
+            if architecture()[0] == '64bit':
+                filename = 'loclx-linux-amd64.zip'.format(ostype)
+            else:
+                filename = 'loclx-linux-386.zip'.format(ostype)
+        url = 'https://lxpdownloads.sgp1.digitaloceanspaces.com/cli/'+filename
+        download(url)
+        system('unzip loclx*.zip && rm loclx*.zip')
+        system('clear')         
 
 Ngrok()
+Localxpose()
