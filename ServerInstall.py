@@ -1,3 +1,4 @@
+
 from subprocess import check_output
 import os
 from platform import system as systemos, architecture
@@ -32,7 +33,9 @@ def Localxpose():
                 filename = 'loclx-linux-386.zip'.format(ostype)
         url = 'https://lxpdownloads.sgp1.digitaloceanspaces.com/cli/'+filename
         download(url)
-        os.system('unzip loclx*.zip && rm loclx*.zip')
+        os.system('unzip loclx*.zip')
+        os.system('mv loclx* loclx')
+        os.system('rm loclx*.zip')
         os.system('clear')         
 
 Ngrok()
