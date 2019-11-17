@@ -20,6 +20,7 @@ def Ngrok():
         os.system('unzip ' + filename)
         os.system('rm -Rf ' + filename)
         os.system('clear')
+
 #LOCALXPOSE
 def Localxpose(): 
     if True:
@@ -34,9 +35,9 @@ def Localxpose():
         url = 'https://lxpdownloads.sgp1.digitaloceanspaces.com/cli/'+filename
         download(url)
         os.system('unzip loclx*.zip')
-        os.system('mv loclx* loclx')
         os.system('rm loclx*.zip')
-        os.system('clear')         
+        os.system("mv loclx* loclx")
+        os.system('clear')        
 
 Ngrok()
 Localxpose()
