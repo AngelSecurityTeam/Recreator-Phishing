@@ -18,6 +18,23 @@ PROFESSIONAL TOOL ORIENTED IN THE RECREATION OF PHISHING WEBSITE SCENARIOS
 
 * python3 recreator-phishing.py
 
+# TERMUX
+
+* pkg install git
+
+* git clone  https://github.com/AngelSecurityTeam/Recreator-Phishing
+
+* cd Recreator-Phishing
+
+* pkg install python
+
+* pkg install wget
+
+* pip3 install wget
+
+* python3 recreator-phishing.py
+
+
 <h3> PHISHING-TOOL PHOTOS </h3>
 
 <img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/fotosub4.png">
