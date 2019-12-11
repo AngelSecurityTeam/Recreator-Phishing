@@ -32,6 +32,8 @@ PROFESSIONAL TOOL ORIENTED IN THE RECREATION OF PHISHING WEBSITE SCENARIOS
 
 * pip3 install wget
 
+* python3 ServerInstall.py
+
 * python3 recreator-phishing.py
 
 
