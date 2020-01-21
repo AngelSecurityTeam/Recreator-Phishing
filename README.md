@@ -52,6 +52,8 @@ PROFESSIONAL TOOL ORIENTED IN THE RECREATION OF PHISHING WEBSITE SCENARIOS
 
 <img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap2.png">
 
+<img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/capb2.png">
+
 <img src="https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap3.png">
 
 <h3> Paypal Donations: </h3>
