@@ -58,4 +58,4 @@ PROFESSIONAL TOOL ORIENTED IN THE RECREATION OF PHISHING WEBSITE SCENARIOS
 
 <h3> Paypal Donations: </h3>
 
-* https://www.paypal.me/AngelSecurityTeam
+* https://www.paypal.com/paypalme/AngelSecTeam
